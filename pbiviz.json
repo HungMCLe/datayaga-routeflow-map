@@ -1,0 +1,26 @@
+{
+    "visual": {
+        "name": "flowMapVisual",
+        "displayName": "Flow Map",
+        "guid": "flowMapVisualF000F4C0EB4A453BBD1A09AF14CF993E",
+        "visualClassName": "Visual",
+        "version": "1.0.3.0",
+        "description": "Beautiful origin-destination flow map with animated particle arcs, gradient colors, and rich hover tooltips.",
+        "supportUrl": "https://github.com/HungMCLe/datayaga-routeflow-map",
+        "gitHubUrl": "https://github.com/HungMCLe/datayaga-routeflow-map"
+    },
+    "apiVersion": "5.10.0",
+    "author": {
+        "name": "Hung Le",
+        "email": "hungmcle@gmail.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": [],
+    "version": "1.0.3.0"
+}
